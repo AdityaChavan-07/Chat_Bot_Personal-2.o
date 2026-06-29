@@ -1,6 +1,6 @@
 # 🤖 Jarvis AI Assistant
 
-An advanced AI-powered voice assistant built with Python, LiveKit, and modern AI technologies. Jarvis can hold natural conversations, remember previous interactions, generate images, automate browser tasks, search the web, and execute commands through voice or text.
+An advanced AI-powered voice assistant built with Python, Tively , and modern AI technologies. Jarvis can hold natural conversations, remember previous interactions,automate browser tasks, search the web, and execute commands through voice or text.
 
 ---
 
@@ -118,12 +118,6 @@ pip install -r requirements.txt
 
 Create a `.env` file:
 
-```env
-GOOGLE_API_KEY=your_api_key
-LIVEKIT_URL=your_livekit_url
-LIVEKIT_API_KEY=your_key
-LIVEKIT_API_SECRET=your_secret
-```
 
 ### 6. Run Jarvis
 
