@@ -267,7 +267,7 @@ def main():
             print(response)
         
         except KeyboardInterrupt:
-            print("\n\n👋 Goodbye!")
+            print("\n\n👋 Goodbye!!")
             break
         except Exception as e:
             print(f"❌ Error: {str(e)}")
