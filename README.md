@@ -1,6 +1,6 @@
-# 🤖 Jarvis AI Assistant
+# 🤖 N.E.X.A AI Assistant
 
-An advanced AI-powered voice assistant built with Python, Tively , and modern AI technologies. Jarvis can hold natural conversations, remember previous interactions,automate browser tasks, search the web, and execute commands through voice or text.
+An advanced AI-powered voice assistant built with Python, Tively , and modern AI technologies. NEXA can hold natural conversations, remember previous interactions,automate browser tasks, search the web, and execute commands through voice or text.
 
 ---
 
